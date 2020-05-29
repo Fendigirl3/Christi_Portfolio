@@ -1,5 +1,4 @@
 # Christi_Portfolio
-Data science portfolio
 
 # [Project 1: Real-Estate-Price-Prediction: Project Overview](https://github.com/Fendigirl3/Real-Estate-Price-Predict)
 - Machine learning model to predict the prices of homes in Bengaluru, India.
