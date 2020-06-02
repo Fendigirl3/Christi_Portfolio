@@ -7,6 +7,6 @@
 - Wrote python flask server that uses model to serve http requests.
 - Built website using html, css, and JavaScript that allows the user to input square foot area, number of baths, etc. which then calls the python flask server to retrieve the predicted price.
 
-# [Project 2: Craps-Probability: Project Overview](
+# [Project 2: Craps-Probability: Project Overview](https://github.com/Fendigirl3/craps)
 - Wrote python script to determine the probability of winning or losing when playing craps.
 - Used outcomes to determine the best bets one can make when playing the game.
