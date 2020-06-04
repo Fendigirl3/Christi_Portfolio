@@ -1,6 +1,6 @@
 # Christi Lee
 
-# [Project 1: Real-Estate-Price-Prediction: Project Overview](https://github.com/Fendigirl3/Real-Estate-Price-Predict)
+# [Project 1: Real-Estate-Price-Prediction: Project Overview](http://ec2-3-15-213-204.us-east-2.compute.amazonaws.com/)
 - Machine learning model to predict the prices of homes in Bengaluru, India.
 - Used sklearn and linear regression to build the model using a home prices data set from kaggle.com.
 - Optimized Linear, Lasso, and Random Forest Regressors using GridSearchCV to find the best model.
